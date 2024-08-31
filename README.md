@@ -1,4 +1,5 @@
 # day-first
 this is my first Git repsitory
 <br>
-author - rishabh mishra
+author - rishabh mishra instag
+
